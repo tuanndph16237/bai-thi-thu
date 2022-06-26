@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "product b",
+      "price": 3,
+      "status": true,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Nguyen Duc Tuan",
+      "password": "tuan12345",
+      "email": "nguyenductuan05102002@gmail.com",
+      "id": 1
+    },
+    {
+      "password": "tuan12345",
+      "email": "tuanndph16237@fpt.edu.vn",
+      "id": 2
+    }
+  ]
+}
